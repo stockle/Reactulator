@@ -1,2 +1,2 @@
 # ReactION
-Welcome to my reaction channel where I'm Reacting to React! Smash that subscribe button!
+Welcome to my Reaction channel where I'm Reacting to React! Smash that React button!
